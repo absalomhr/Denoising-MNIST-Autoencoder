@@ -1,6 +1,6 @@
 # Denoising Autoencoder: MNIST Numbers
 Given some images of numbers from the toy data set MNIST we apply some noise to them, and then using convolutional layers, max pooling layers and convolutional transpose layers try to de-noise the given images.
-![GitHub Logo](/assets/autoencoder_denoise)
+![GitHub Logo](/assets/autoencoder_denoise.png)
 ## Setup:
 1. Create a conda environment:
 Make sure you have installed: numpy matplotlib pandas jupyter notebook
